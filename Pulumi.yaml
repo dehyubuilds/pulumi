@@ -1,0 +1,6 @@
+name: Twilly
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Deploys Twilly in ECS Fargate with RDS backend.
